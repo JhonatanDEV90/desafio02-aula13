@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#menu{
+    background-color: rgb(37, 37, 39);
+}
+
+#menu ul {
+    text-align: center;
+    max-width: 800px;
+    list-style: none;
+    padding: 20px;
+}
+
+#menu ul li {
+    display: inline;
+    text-align: center;
+    padding: 20px;
+}
+
+#menu ul li a {
+    text-align: center;
+    color: #FFF;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    
+}
+
+body {
+    color: black;
+    background-color: rgb(137, 151, 146)
+
+    
+    
+}
+
+.container img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
+.rodape {
+    background-color: rgb(37, 37, 39);
+    text-align: center;
+    color: #FFF;
+    max-width: ;
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
